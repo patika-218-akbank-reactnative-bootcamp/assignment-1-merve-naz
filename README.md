@@ -68,4 +68,5 @@ Buradaki Tab her bir kisinin story'sini temsil etmektedir. Tap componenti ise  i
     );}
   
   Temel dizayn bu şekildedir.Kodlar içerisinde de daha ayrıntılı açıklamalar da bulunmaktadır.
+  Bu ödev Windows bilgsayar da hazırlandı  ve  sanal telefon olarak da Pixel 3aTel secilmiştir.
 assignment-1-merve-naz created by GitHub Classroom
